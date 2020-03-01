@@ -1,0 +1,2 @@
+# blocklist
+ublock list
