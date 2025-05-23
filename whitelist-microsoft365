@@ -99,3 +99,8 @@ provisioningapi.microsoftonline.co
 *.microsoft.co
 *.msocdn.co
 *.onmicrosoft.co
+2606:4700::6812:5f29
+2606:4700::6812:5e29
+104.18.94.41
+104.18.95.41
+challenges.cloudflare.com
